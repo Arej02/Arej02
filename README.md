@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Arya Raj Khadka</h1>
-<h3 align="center">A passionate data science student</h3>
+# Hello 👋, I'm Arya Raj Khadka
+
+## About Me:
+
+I am a passionate and enthusiastic Computer Science student at University of Adelaide,majoring in Data Science.My academic journey has equipped me with a strong foundation in Data Structures and Algorithm using C++ alongside with data analysis and predictive models using Python and R.I enjoy applying the concepts that I have learned during my classes to resolve real-world problems.I am actively seeking for opportunities to enhance my knowledge in field such as data analytics,machine learning and software development.
+
+
+## My GitHub Stats:
+
+
+![GitHub Stats] (https://github-readme-streak-stats.herokuapp.com/?user=Arej02)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arej02&label=Profile%20views&color=0e75b6&style=flat" alt="arej02" /> </p>
 
