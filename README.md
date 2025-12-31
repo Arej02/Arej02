@@ -2,12 +2,10 @@
 
 ## About Me:
 
-I am a passionate and enthusiastic Computer Science student at University of Adelaide,majoring in Data Science.My academic journey has equipped me with a strong foundation in Data Structures and Algorithm using C++ alongside with data analysis and predictive models using Python and R.I enjoy applying the concepts that I have learned during my classes to resolve real-world problems.I am actively seeking for opportunities to enhance my knowledge in field such as data analytics,machine learning and software development.
+I am a passionate and enthusiastic Computer Science student at University of Adelaide, majoring in Data Science. My academic journey has equipped me with a strong foundation in Data Structures and Algorithm using C++ alongside with data analysis and predictive models using Python and R.I enjoy applying the concepts that I have learned during my classes to resolve real-world problems.I am actively seeking for opportunities to enhance my knowledge in field such as data analytics,machine learning and software development.
 
 
 ## My GitHub Stats:
-![GitHub Stats 1](https://github-readme-streak-stats.herokuapp.com/?user=Arej02)
-
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
