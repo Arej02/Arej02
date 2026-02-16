@@ -2,7 +2,9 @@
 
 ## About Me:
 
-I am a passionate and enthusiastic Computer Science student at University of Adelaide, majoring in Data Science. My academic journey has equipped me with a strong foundation in Data Structures and Algorithm using C++ alongside with data analysis and predictive models using Python and R.I enjoy applying the concepts that I have learned during my classes to resolve real-world problems.I am actively seeking for opportunities to enhance my knowledge in field such as data analytics,machine learning and software development.
+Final-year Mathematics & Computer Science student at the University of Adelaide with a focus on computer vision, AI, and real-world data-driven applications. Currently working as a Research Assistant on a project developing an Android app that integrates computer vision techniques to detect both AprilTags and DataMatrix codes.
+
+I have hands-on experience in Python, AI/ML workflows, Android development, and building end-to-end systems that convert complex visual data into actionable insights. I am seeking opportunities in AI research, computer vision, or robotics, where I can contribute to projects that bridge simulation, perception, and autonomous decision-making in physical or space environments.
 
 
 ## My GitHub Stats:
